@@ -14,7 +14,7 @@
 * [Usage](#usage)
 * [Authors](#authors)
 
-## Description ✨
+## Description
 
 
 ## Features 📚
