@@ -8,13 +8,13 @@
 
 
 ## Table of Contents 📑
-* [Description](#description)
-* [Features](##features)
-* [Getting Started](##getting-started)
-* [Usage](##usage)
-* [Authors](##authors)
+* [Description](#Description)
+* [Features](#Features)
+* [Getting Started](#Getting-started)
+* [Usage](#Usage)
+* [Authors](#Authors)
 
-# Description ✨
+## Description ✨
 
 
 ## Features 📚
