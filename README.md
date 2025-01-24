@@ -4,7 +4,7 @@
 
 # CODECREW
 
-![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/Mardie328/simple_shell/assets/92341910/c90e9c7e-fd1a-4fb1-88e5-2f0db3a4ef31)
+![Cover image](https://raw.githubusercontent.com/Mardie328/CodeCrew/refs/heads/main/web%20application/images/Cover%20image.png)
 
 
 ## Table of Contents 📑
