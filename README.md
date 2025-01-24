@@ -8,11 +8,11 @@
 
 
 ## Table of Contents 📑
-* [Description](#Description)
-* [Features](#Features)
-* [Getting Started](#Getting-started)
-* [Usage](#Usage)
-* [Authors](#Authors)
+* [Description](#description)
+* [Features](#features)
+* [Getting Started](#getting-started)
+* [Usage](#usage)
+* [Authors](#authors)
 
 ## Description ✨
 
