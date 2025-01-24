@@ -29,7 +29,7 @@
 
 <a id="usage"></a>
 ## Usage 🛠️
-   - Clone this repo via 
+   - Clone this repo via `git clone https://github.com/Mardie328/CodeCrew.git` or `git clone `
      
 
 <a id="authors"></a>
