@@ -18,15 +18,21 @@
 ## Description ✨
 
 
+<a id="features"></a>
 ## Features 📚
 
 
+<a id="getting-started"></a>
 ## Getting Started 🚀
-  
+  - Download XAMPP from [here](https://www.apachefriends.org/download.html)
+  - Install the downloaded XAMPP on your local machine
 
+<a id="usage"></a>
 ## Usage 🛠️
+   - Clone this repo via 
+     
 
-
+<a id="authors"></a>
 ## Authors 👥
 * **Taofeek Mardiyyah A.**
    * [Email](taofeekmardiyyah@gmail.com)
