@@ -8,7 +8,7 @@
 
 
 ## Table of Contents 📑
-* [Description](#description)
+* [Description](#description) ✨
 * [Features](#features)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
