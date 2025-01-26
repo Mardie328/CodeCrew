@@ -34,7 +34,7 @@ CodeCrew is a digital platform designed to unite programmers and developers of a
   - Install the downloaded XAMPP on your local machine
   - Clone this repo via `git clone https://github.com/Mardie328/CodeCrew.git` or
     `git clone git@github.com:Mardie328/CodeCrew.git`
-  - Transfer the folder and files into the hotdog folder on XAMPP
+  - Transfer or drag the web applicatiion folder into the hotdog folder on XAMPP
      
 
 <a id="authors"></a>
